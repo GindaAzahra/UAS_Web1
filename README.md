@@ -35,6 +35,16 @@ MoviView dibuat sebagai aplikasi **movie review** yang sederhana, terstruktur, d
 
 ---
 
+## 🌐 Demo Aplikasi
+
+### 🔗 Live Preview:  
+https://movi-view-frontend.vercel.app
+
+### 🎥 Video Demo (Google Drive):  
+https://drive.google.com/drive/folders/1ZAAwZpSGtQgDqw5gwNPGXU8xJHKcENdw
+
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Halaman Beranda
