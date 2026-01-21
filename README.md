@@ -38,29 +38,29 @@ MoviView dibuat sebagai aplikasi **movie review** yang sederhana, terstruktur, d
 ## 📸 Screenshots
 
 ### 🏠 Halaman Beranda
-![UAS_WEB1](/images/S1.jpg)
-![UAS_WEB1](/images/S2.jpg)
-![UAS_WEB1](/images/S3.jpg)
-![UAS_WEB1](/images/S4.jpg)
-![UAS_WEB1](/images/S5.jpg)
+![UAS_WEB1](/images/S1.png)
+![UAS_WEB1](/images/S2.png)
+![UAS_WEB1](/images/S3.png)
+![UAS_WEB1](/images/S4.png)
+![UAS_WEB1](/images/S5.png)
 
 ### 🔐 Halaman Login & Registrasi
-![UAS_WEB1](/images/S6.jpg)
-![UAS_WEB1](/images/S7.jpg)
-![UAS_WEB1](/images/S8.jpg)
-![UAS_WEB1](/images/S9.jpg)
-![UAS_WEB1](/images/S10.jpg)
+![UAS_WEB1](/images/S6.png)
+![UAS_WEB1](/images/S7.png)
+![UAS_WEB1](/images/S8.png)
+![UAS_WEB1](/images/S9.png)
+![UAS_WEB1](/images/S10.png)
 
 ### ⭐ Review
-![UAS_WEB1](/images/S11.jpg)
-![UAS_WEB1](/images/S12.jpg)
-![UAS_WEB1](/images/S13.jpg)
+![UAS_WEB1](/images/S11.png)
+![UAS_WEB1](/images/S12.png)
+![UAS_WEB1](/images/S13.png)
 
 ### 🛠️ Halaman Admin
-![UAS_WEB1](/images/S14.jpg)
-![UAS_WEB1](/images/S15.jpg)
-![UAS_WEB1](images/S18.jpg)
+![UAS_WEB1](/images/S14.png)
+![UAS_WEB1](/images/S15.png)
+![UAS_WEB1](images/S18.png)
 
 ### 📄 Export Laporan (PDF & Excel)
-![UAS_WEB1](images/S16.jpg)
-![UAS_WEB1](images/S17.jpg)
+![UAS_WEB1](images/S16.png)
+![UAS_WEB1](images/S17.png)
